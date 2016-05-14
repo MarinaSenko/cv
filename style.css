@@ -1,0 +1,29 @@
+img {
+    width: 180px;
+    height: 240px;
+    border: 1px double azure;
+}
+body {
+    background-image: url("bg-272.png");
+}
+.icons {
+    border-radius: 50%;
+    width: 50px;
+}
+.header {
+    height: 35px;
+}
+.menu {
+    font: 700 24px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #5e5e5e;
+}
+.contact {
+    background-color: azure;
+}
+a {
+    text-decoration: none;
+}
+.but {
+    color: azure !important;
+    font: 600 24px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
